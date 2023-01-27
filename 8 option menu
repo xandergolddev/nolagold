@@ -1,12 +1,26 @@
-<nav>
-  <ul>
-    <li><a href="#">Team</a></li>
-    <li><a href="#">Schedule</a></li>
-    <li><a href="#">News</a></li>
-    <li><a href="#">Media</a></li>
-    <li><a href="#">Shop</a></li>
-    <li><a href="#">Tickets</a></li>
-    <li><a href="#">Partners</a></li>
-    <li><a href="#">About Us</a></li>
-  </ul>
-</nav>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Website</title>
+  </head>
+  <body>
+    <header>
+      <h1>My Website</h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="#">Option 1</a></li>
+        <li><a href="#">Option 2</a></li>
+        <li><a href="#">Option 3</a></li>
+        <li><a href="#">Option 4</a></li>
+        <li><a href="#">Option 5</a></li>
+        <li><a href="#">Option 6</a></li>
+        <li><a href="#">Option 7</a></li>
+        <li><a href="#">Option 8</a></li>
+      </ul>
+    </nav>
+    <footer>
+      <p>Copyright ©2022 My Website</p>
+    </footer>
+  </body>
+</html>
