@@ -1,0 +1,12 @@
+<nav>
+  <ul>
+    <li><a href="#">Team</a></li>
+    <li><a href="#">Schedule</a></li>
+    <li><a href="#">News</a></li>
+    <li><a href="#">Media</a></li>
+    <li><a href="#">Shop</a></li>
+    <li><a href="#">Tickets</a></li>
+    <li><a href="#">Partners</a></li>
+    <li><a href="#">About Us</a></li>
+  </ul>
+</nav>
